@@ -1,16 +1,38 @@
-## Hi there 👋
+# hey there 👋 i’m Soumya Kumari
 
-<!--
-**Soumya170921/Soumya170921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ frontend fangirl | 🧩 mern stack explorer | 🎨 designing stuff that actually looks good
 
-Here are some ideas to get you started:
+welcome to my little dev corner on GitHub where I build ✨vibe-heavy✨ projects, fight bugs like a boss, and turn coffee into code ☕💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ what i build with
+- 🎯 **Frontend**: HTML, CSS, JavaScript, React, Tailwind (aka my aesthetic toolkit)
+- 🔙 **Backend**: Node.js, Express, MongoDB, MySQL (yes, I do both sides 😎)
+
+
+---
+
+### 🚀 some of my fav builds
+- 🛒 **E-Commerce Platform** – full-stack vibes w/ Stripe checkout + admin control
+- 💬 **Social Media Dashboard** – real-time chats, Redis notifs, the whole package
+
+---
+
+### 🛠️ currently cooking
+- 🧠 an AI-powered LMS that recommends courses like Netflix recommends drama
+
+
+---
+
+### 🧬 forever learning
+- TypeScript (typing is cool now)
+- Next.js (for that SSR energy)
+- Docker & CI/CD (because deployment shouldn’t be scary)
+- AI + Web fusion (chatbots are the new besties)
+
+---
+
+> *“debugging is just vibe-checking your code.”*
+
+thanks for scrolling! drop a ⭐ if you like what you see 💖
